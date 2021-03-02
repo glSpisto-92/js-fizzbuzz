@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: blueviolet;
+    padding: 10px;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+
+p{
+    padding: 10px; 
+    color: #fff;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    background-color: #000;
+    text-align: center;
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+
+#lista li{
+    list-style: none;
+    font-size: 24px;
+    padding: 5px;
+    color: #fff;
+}
+
